@@ -11,7 +11,7 @@
 <declare name="Dado1, Dado2" type="Integer" array="False" size=""/>
 <declare name="Clasificacion1, Clasificacion2" type="String" array="False" size=""/>
 
-        <output expression="&quot;=== Simulador de Dados (Reto Condicional 1) ===&quot;" newline="True"/>
+        <output expression="&quot;Simulador de Dados (Reto Condicional 1) &quot;" newline="True"/>
 
         <assign variable="Dado1" expression="Random(6) + 1"/>
         <assign variable="Dado2" expression="Random(6) + 1"/>

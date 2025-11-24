@@ -9,7 +9,7 @@
         <parameters/>
         <body>
             <declare name="numero" type="Integer" array="False" size=""/>
-            <output expression="&quot;=== CLASIFICADOR COMPLETO DE N&#218;MEROS ===&quot;" newline="True"/>
+            <output expression="&quot; CLASIFICADOR COMPLETO DE N&#218;MEROS &quot;" newline="True"/>
             <output expression="&quot;Por favor, ingresa un n&#250;mero entero (positivo o negativo):&quot;" newline="True"/>
             <input variable="numero"/>
             <if expression="numero == 0">

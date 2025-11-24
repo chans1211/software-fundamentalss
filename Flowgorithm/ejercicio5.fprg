@@ -12,7 +12,7 @@
 <declare name="tipoID, nombres, apellidos, genero, direccion, telefono" type="String" array="False" size=""/>
 <declare name="anioNacimiento" type="Integer" array="False" size=""/>
 <declare name="porcentajeAumento" type="Real" array="False" size=""/>
-        <output expression="&quot;=== INGRESO DE DATOS PERSONALES ===&quot;" newline="True"/>
+        <output expression="&quot;INGRESO DE DATOS PERSONALES &quot;" newline="True"/>
         <output expression="&quot;Tipo de identificación (CC, PS, CE, CI):&quot;" newline="True"/>
         <input variable="tipoID"/>
         <output expression="&quot;Nombres:&quot;" newline="True"/>
