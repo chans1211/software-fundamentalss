@@ -1,5 +1,5 @@
 import random
-random.seed()   #Prepare random number generator
+random.seed()   
 
 c1 = 0
 c2 = 0
@@ -30,7 +30,7 @@ while i <= veces:
                     else:
                         c6 = c6 + 1
     i = i + 1
-print("--- RESULTADOS ---")
+print(" RESULTADOS ")
 print("Número 1: " + str(c1) + " veces")
 print("Número 2: " + str(c2) + " veces")
 print("Número 3: " + str(c3) + " veces")
